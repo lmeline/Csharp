@@ -1,0 +1,15 @@
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/bin/Debug/net8.0/Base1
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/bin/Debug/net8.0/Base1.deps.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/bin/Debug/net8.0/Base1.runtimeconfig.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/bin/Debug/net8.0/Base1.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/bin/Debug/net8.0/Base1.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/obj/Debug/net8.0/Base1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/obj/Debug/net8.0/Base1.AssemblyInfoInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/obj/Debug/net8.0/Base1.AssemblyInfo.cs
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/obj/Debug/net8.0/Base1.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/obj/Debug/net8.0/Base1.sourcelink.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/obj/Debug/net8.0/Base1.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/obj/Debug/net8.0/refint/Base1.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/obj/Debug/net8.0/Base1.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/obj/Debug/net8.0/Base1.genruntimeconfig.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/Base1/obj/Debug/net8.0/ref/Base1.dll
