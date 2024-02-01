@@ -1,0 +1,15 @@
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/obj/Debug/net8.0/equationsnddegre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/obj/Debug/net8.0/equationsnddegre.AssemblyInfoInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/obj/Debug/net8.0/equationsnddegre.AssemblyInfo.cs
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/obj/Debug/net8.0/equationsnddegre.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/obj/Debug/net8.0/equationsnddegre.sourcelink.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/bin/Debug/net8.0/equationsnddegre
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/bin/Debug/net8.0/equationsnddegre.deps.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/bin/Debug/net8.0/equationsnddegre.runtimeconfig.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/bin/Debug/net8.0/equationsnddegre.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/bin/Debug/net8.0/equationsnddegre.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/obj/Debug/net8.0/equationsnddegre.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/obj/Debug/net8.0/refint/equationsnddegre.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/obj/Debug/net8.0/equationsnddegre.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/obj/Debug/net8.0/equationsnddegre.genruntimeconfig.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/equationsnddegre/obj/Debug/net8.0/ref/equationsnddegre.dll
