@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// +, -, /, x, % 
+
+Console.Write("Bonjour, veuillez rentrer votre opération : ");
+string operation = Console.ReadLine();
+
