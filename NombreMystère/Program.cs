@@ -18,9 +18,13 @@ string chaine = Console.ReadLine();
 int nbr = int.Parse(chaine);
 
 if (nbr == NOMBRE_MYSTERE) {
-    Console.Write("Bravo tu as trouvé");
-} else  {
-    Console.Write("Dommage tu n'as pas trouvé");
+    Console.Write("Bravo tu as trouvé ");
+} else if (nbr > NOMBRE_MYSTERE) {
+    Console.Write("Dommage tu n'as pas trouvé, ton nombre est trop grand ");
+    
+} else if (nbr < NOMBRE_MYSTERE) {
+    Console.Write("Dommage tu n'as pas trouvé, ton nombre est trop petit ");
+   
 }
 
 
