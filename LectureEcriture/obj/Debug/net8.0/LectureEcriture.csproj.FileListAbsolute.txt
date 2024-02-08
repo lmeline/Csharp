@@ -1,0 +1,15 @@
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/bin/Debug/net8.0/LectureEcriture
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/bin/Debug/net8.0/LectureEcriture.deps.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/bin/Debug/net8.0/LectureEcriture.runtimeconfig.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/bin/Debug/net8.0/LectureEcriture.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/bin/Debug/net8.0/LectureEcriture.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.AssemblyInfoInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.AssemblyInfo.cs
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.sourcelink.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/obj/Debug/net8.0/refint/LectureEcriture.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/obj/Debug/net8.0/LectureEcriture.genruntimeconfig.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/LectureEcriture/obj/Debug/net8.0/ref/LectureEcriture.dll

@@ -2,7 +2,7 @@
 // Writeline est une méthode de l'objet console qui permet d'afficher du texte dans la console
 // La méthode writline prend en paramètre une chaîne de caractères
 
-Console.WriteLine("bonjour à tous!");
+//Console.WriteLine("bonjour à tous!");
 // commentaire une seule ligne
 /* commentaire sur plusieurs lignes */
 // déclaration d'une variable de type entier (int) nommée âge
@@ -13,3 +13,8 @@ Console.WriteLine("bonjour à tous!");
 //int taille =180 // déclaration et affectation en une seule ligne
 
 //Console.WriteLine(age);
+
+int a = 5;
+int b = 3;
+
+Console.WriteLine(a);

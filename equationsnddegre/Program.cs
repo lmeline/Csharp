@@ -1,17 +1,24 @@
-﻿// ax + b = c
+﻿// ax + b = 0
 
 
-float a;
-float b;
-float c; 
+//float a;
+//float b;
+// pas besoin de le déclarer avant 
+// peut mettre float directement 
 
 Console.WriteLine("Entrez la valeur de a :");
-a =Convert.ToSingle(Console.ReadLine());
+float a =Convert.ToSingle(Console.ReadLine());
 Console.WriteLine("Entrez la valeur de b :");
-b = Convert.ToSingle(Console.ReadLine());
-Console.WriteLine("Entrez la valeur de c :");
-c = Convert.ToSingle(Console.ReadLine());
+float b = Convert.ToSingle(Console.ReadLine());
+
 
 float x;
-x =(c-b)/a;
+x = -b/a;
+// Interpolation de string
 Console.WriteLine($"x prend la valeur {x}" );
+
+// décimal a = Convert.ToDecimal(System.Console.ReadLine());
+// System est implicite, pas besoin de l'importer
+// Console.RealLine (toujours une chaine de caractère)
+// utilisé decimal 
+// double = Convert.ToDouble (moins précis au nv des décimales)

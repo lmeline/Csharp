@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("equationsnddegre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbfb41a0eaee49c347c668fe471caff9dddc622b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fe0515d674aa6fe73d564dfff39edfca9554de2")]
 [assembly: System.Reflection.AssemblyProductAttribute("equationsnddegre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("equationsnddegre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
