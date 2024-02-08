@@ -12,19 +12,35 @@ string reponse = Console.ReadLine();
 Console.WriteLine($"Bonjour, bienvenue {reponse} ! ");
 
 // Demander un nbr à l'utilisateur et le stocker dans une variable entière.
-Console.Write($"Entrez un nombre entre {MIN} et {MAX} : ");
 
-string chaine = Console.ReadLine();
-int nbr = int.Parse(chaine);
 
-if (nbr == NOMBRE_MYSTERE) {
-    Console.Write("Bravo tu as trouvé ");
-} else if (nbr > NOMBRE_MYSTERE) {
-    Console.Write("Dommage tu n'as pas trouvé, ton nombre est trop grand ");
-    
-} else if (nbr < NOMBRE_MYSTERE) {
-    Console.Write("Dommage tu n'as pas trouvé, ton nombre est trop petit ");
-   
+bool check = false ;
+
+while(check == false) {
+    Console.Write($"Entrez un nombre entre {MIN} et {MAX} : ");
+    string chaine = Console.ReadLine();
+    int nbr = int.Parse(chaine);
+
+    if (nbr > NOMBRE_MYSTERE) {
+        Console.WriteLine("Dommage tu n'as pas trouvé, ton nombre est trop grand ");
+        Console.Write("Tu veux continuer (o/n) ? ");
+        string ans = Console.ReadLine();
+        if (ans == "n") {
+            check = true;
+        }
+    } else if (nbr < NOMBRE_MYSTERE) {
+        Console.WriteLine("Dommage tu n'as pas trouvé, ton nombre est trop petit ");
+        Console.Write("Tu veux continuer (o/n) ? ");
+        string ans = Console.ReadLine();
+        if (ans == "n") {
+            check = true;
+        }
+    } else {
+        Console.Write("Bravo tu as trouvé "); 
+        check = true ;
+    }
 }
 
+
+    
 
