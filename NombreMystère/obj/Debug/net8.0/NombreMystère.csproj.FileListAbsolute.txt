@@ -1,0 +1,15 @@
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/bin/Debug/net8.0/NombreMystère
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/bin/Debug/net8.0/NombreMystère.deps.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/bin/Debug/net8.0/NombreMystère.runtimeconfig.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/bin/Debug/net8.0/NombreMystère.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/bin/Debug/net8.0/NombreMystère.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/obj/Debug/net8.0/NombreMystère.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/obj/Debug/net8.0/NombreMystère.AssemblyInfoInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/obj/Debug/net8.0/NombreMystère.AssemblyInfo.cs
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/obj/Debug/net8.0/NombreMystère.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/obj/Debug/net8.0/NombreMystère.sourcelink.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/obj/Debug/net8.0/NombreMystère.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/obj/Debug/net8.0/refint/NombreMystère.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/obj/Debug/net8.0/NombreMystère.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/obj/Debug/net8.0/NombreMystère.genruntimeconfig.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/NombreMystère/obj/Debug/net8.0/ref/NombreMystère.dll
