@@ -1,6 +1,6 @@
 ﻿
 // Demander un nbr mystère entre 1 et 100 sous forme de constante entière.
-const int NOMBRE_MYSTERE = 38;
+const int NOMBRE_MYSTERE = 9;
 const int MIN = 1;
 const int MAX = 100;
 

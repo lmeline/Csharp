@@ -1,0 +1,15 @@
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/obj/Debug/net8.0/tableau.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/obj/Debug/net8.0/tableau.AssemblyInfoInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/obj/Debug/net8.0/tableau.AssemblyInfo.cs
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/obj/Debug/net8.0/tableau.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/obj/Debug/net8.0/tableau.sourcelink.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/bin/Debug/net8.0/tableau
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/bin/Debug/net8.0/tableau.deps.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/bin/Debug/net8.0/tableau.runtimeconfig.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/bin/Debug/net8.0/tableau.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/bin/Debug/net8.0/tableau.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/obj/Debug/net8.0/tableau.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/obj/Debug/net8.0/refint/tableau.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/obj/Debug/net8.0/tableau.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/obj/Debug/net8.0/tableau.genruntimeconfig.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/tableau/obj/Debug/net8.0/ref/tableau.dll

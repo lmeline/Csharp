@@ -1,0 +1,15 @@
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/obj/Debug/net8.0/Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/obj/Debug/net8.0/Calculatrice.AssemblyInfoInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/obj/Debug/net8.0/Calculatrice.AssemblyInfo.cs
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/obj/Debug/net8.0/Calculatrice.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/obj/Debug/net8.0/Calculatrice.sourcelink.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/bin/Debug/net8.0/Calculatrice
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/bin/Debug/net8.0/Calculatrice.deps.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/bin/Debug/net8.0/Calculatrice.runtimeconfig.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/bin/Debug/net8.0/Calculatrice.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/bin/Debug/net8.0/Calculatrice.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/obj/Debug/net8.0/Calculatrice.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/obj/Debug/net8.0/refint/Calculatrice.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/obj/Debug/net8.0/Calculatrice.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/obj/Debug/net8.0/Calculatrice.genruntimeconfig.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/Calculatrice/obj/Debug/net8.0/ref/Calculatrice.dll
