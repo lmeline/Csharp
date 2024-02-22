@@ -1,0 +1,15 @@
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/obj/Debug/net8.0/testascii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/obj/Debug/net8.0/testascii.AssemblyInfoInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/obj/Debug/net8.0/testascii.AssemblyInfo.cs
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/obj/Debug/net8.0/testascii.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/obj/Debug/net8.0/testascii.sourcelink.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/bin/Debug/net8.0/testascii
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/bin/Debug/net8.0/testascii.deps.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/bin/Debug/net8.0/testascii.runtimeconfig.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/bin/Debug/net8.0/testascii.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/bin/Debug/net8.0/testascii.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/obj/Debug/net8.0/testascii.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/obj/Debug/net8.0/refint/testascii.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/obj/Debug/net8.0/testascii.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/obj/Debug/net8.0/testascii.genruntimeconfig.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/testascii/obj/Debug/net8.0/ref/testascii.dll
