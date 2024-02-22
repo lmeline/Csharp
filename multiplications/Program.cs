@@ -13,10 +13,26 @@
    // continuer = false;
 //}
 
-Console.Write("Entrez votre valeur : ");
-int valeur = int.Parse(Console.ReadLine());
-const int a = 5;
-for (int i = 0; i < a; i++) {
-    int b = i * valeur;
-    Console.WriteLine($"{i} * {valeur} = {b} ");
+
+bool K = true;
+
+while (K ==true) {
+    Console.Write("Entrez votre valeur : ");
+    string valeurStr = Console.ReadLine();
+    if (int.TryParse(valeurStr, out int valeur)){
+        const int a = 11;
+        for (int i = 0; i < a; i++) {
+            int b = i * valeur;
+            Console.WriteLine($"{i} * {valeur} = {b} ");
+            
+        }
+        
+        K =false;
+    } else
+    {
+        Console.WriteLine("Entrez une valeur numérique  ");
+        K = true;
+    }  
 }
+  
+
