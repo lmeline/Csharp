@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("retourner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbdbebda0f0edf7ff525b1b14202604814195719")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+556c84a0e0aec34c5bad48258878c427437c2af5")]
 [assembly: System.Reflection.AssemblyProductAttribute("retourner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("retourner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
