@@ -1,0 +1,15 @@
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/obj/Debug/net8.0/retourner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/obj/Debug/net8.0/retourner.AssemblyInfoInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/obj/Debug/net8.0/retourner.AssemblyInfo.cs
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/obj/Debug/net8.0/retourner.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/obj/Debug/net8.0/retourner.sourcelink.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/bin/Debug/net8.0/retourner
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/bin/Debug/net8.0/retourner.deps.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/bin/Debug/net8.0/retourner.runtimeconfig.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/bin/Debug/net8.0/retourner.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/bin/Debug/net8.0/retourner.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/obj/Debug/net8.0/retourner.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/obj/Debug/net8.0/refint/retourner.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/obj/Debug/net8.0/retourner.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/obj/Debug/net8.0/retourner.genruntimeconfig.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/retourner/obj/Debug/net8.0/ref/retourner.dll
