@@ -26,13 +26,23 @@ while (K ==true) {
             Console.WriteLine($"{i} * {valeur} = {b} ");
             
         }
+    
+        Console.Write("Voulez-vous recommencer o/n ?");
+        string reponse = Console.ReadLine();
+
+        if (reponse == "o"){
+           K =true; 
+
+        } else {
+            K = false;
+        }
         
-        K =false;
     } else
     {
         Console.WriteLine("Entrez une valeur numérique  ");
         K = true;
     }  
+    Console.Write("Au revoir !");
 }
   
 
