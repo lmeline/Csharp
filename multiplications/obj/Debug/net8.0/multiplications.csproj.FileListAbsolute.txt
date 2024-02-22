@@ -1,0 +1,15 @@
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/bin/Debug/net8.0/multiplications
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/bin/Debug/net8.0/multiplications.deps.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/bin/Debug/net8.0/multiplications.runtimeconfig.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/bin/Debug/net8.0/multiplications.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/bin/Debug/net8.0/multiplications.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/obj/Debug/net8.0/multiplications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/obj/Debug/net8.0/multiplications.AssemblyInfoInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/obj/Debug/net8.0/multiplications.AssemblyInfo.cs
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/obj/Debug/net8.0/multiplications.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/obj/Debug/net8.0/multiplications.sourcelink.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/obj/Debug/net8.0/multiplications.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/obj/Debug/net8.0/refint/multiplications.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/obj/Debug/net8.0/multiplications.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/obj/Debug/net8.0/multiplications.genruntimeconfig.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/multiplications/obj/Debug/net8.0/ref/multiplications.dll
