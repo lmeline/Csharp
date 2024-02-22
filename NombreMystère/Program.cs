@@ -23,14 +23,14 @@ while(! trouve){
     }
 
     if (nbSaisi==NOMBRE_MYSTERE) {
-        Console.Write("Vous avez trouvé");
+        Console.Write("Vous avez trouvé ");
         trouve = true;
 
     } else {
         if (nbSaisi>NOMBRE_MYSTERE)
-            Console.WriteLine("Votre nombre est trop grand ");
+            Console.WriteLine("Votre nombre est trop grand. ");
             else 
-            Console.WriteLine("Votre nombre est trop petit ");
+            Console.WriteLine("Votre nombre est trop petit. ");
     }
 }
 
