@@ -1,52 +1,36 @@
-﻿
-// Demander un nbr mystère entre 1 et 100 sous forme de constante entière.
-const int NOMBRE_MYSTERE = 9;
+const int MAX =100;
 const int MIN = 1;
-const int MAX = 100;
+const int NOMBRE_MYSTERE = 82;
 
-// Demander le nom de l'utilisateur et afficher un message de bienvenue personnalisé.
+Console.Write("Veuillez entrer votre prénom : ");
+string prenom = Console.ReadLine();
 
-Console.WriteLine("Bonjour, quel est votre prénom ?");
-string reponse = Console.ReadLine();
+bool trouve = false;
+// pour créer une liste 
+List<int> nombreSaisis = new List<int>();
 
-Console.WriteLine($"Bonjour, bienvenue {reponse} ! ");
+while(! trouve){
+    int nbSaisi = 0;
 
-// Demander un nbr à l'utilisateur et le stocker dans une variable entière.
+    Console.WriteLine("Nombre déjà proposés :" );
+    foreach (int nb in nombreSaisis) {
 
+        Console.Write($"{nb} ");
 
-bool check = false ;
+    Console.Write($"Entrez un nombre entre {MIN} et {MAX} : ");
+    nbSaisi =int.Parse(Console.ReadLine());
+    nombreSaisis.Add(nbSaisi);
+    }
 
-while(check == false) {
-    Console.Write($"Entrez un nombre entre {MIN} et {MAX} (vide pour quitter) : ");
-    string chaine = Console.ReadLine();
-    if(chaine =="") {
-        check = true;
-        Console.Write($"La réponse était : {NOMBRE_MYSTERE} ");
-        break;
-    }   
-        
-    int nbr = int.Parse(chaine);
+    if (nbSaisi==NOMBRE_MYSTERE) {
+        Console.Write("Vous avez trouvé");
+        trouve = true;
 
-    if (nbr > NOMBRE_MYSTERE) {
-        Console.WriteLine("Dommage tu n'as pas trouvé, ton nombre est trop grand ");
-      //  Console.Write("Tu veux continuer (o/n) ? ");
-      //  string ans = Console.ReadLine();
-      //  if (ans == "n") {
-      //      check = true;
-      //  }
-    } else if (nbr < NOMBRE_MYSTERE) {
-        Console.WriteLine("Dommage tu n'as pas trouvé, ton nombre est trop petit ");
-       // Console.Write("Tu veux continuer (o/n) ? ");
-       // string ans = Console.ReadLine();
-       // if (ans == "n") {
-       //     check = true;
-      //  }
     } else {
-        Console.Write("Bravo tu as trouvé "); 
-        check = true ;
+        if (nbSaisi>NOMBRE_MYSTERE)
+            Console.WriteLine("Votre nombre est trop grand ");
+            else 
+            Console.WriteLine("Votre nombre est trop petit ");
     }
 }
-
-
-    
 

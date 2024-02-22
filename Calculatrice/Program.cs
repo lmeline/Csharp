@@ -2,39 +2,42 @@
 
 Console.Write("Entrez le premier nombre : ");
 
-string nbr = Console.ReadLine();
-if (decimal.TryParse(nbr)== true){
-    decimal a = decimal.Parse(nbr);
+string s_nbr = Console.ReadLine();
+decimal nbr;
+if (decimal.TryParse(s_nbr, out nbr)== true){
+
 } else {
-    System.Console.WriteLine("Ca n'est pas possible ");
+    Console.WriteLine("Ca n'est pas possible ");
+    Environment.Exit(0);
 }
 
-Console.Write("Entrez votre l'opérateur : ");
-string opérateur = Console.ReadLine();
+Console.Write("Entrez votre l'opérateur (+, -, /, %, *) : ");
+string operateur = Console.ReadLine();
 
 Console.Write("Entrez le deuxième nombre : ");
-string nbr1 = Console.ReadLine();
-if (decimal.TryParse(nbr1)== true){
-    decimal b = decimal.Parse(nbr1); 
+string s_nbr1 = Console.ReadLine();
+decimal nbr1;
+if (decimal.TryParse(s_nbr1, out nbr1)== true){
 } else {
-    System.Console.WriteLine("Ca n'est pas possible ");
+    Console.WriteLine("Ca n'est pas possible ");
+    Environment.Exit(0);
 }
 
-if(opérateur == "+" ){
-    a = a + b;
-    Console.Write($"Le calcul est {a}");
-} else if (opérateur == "-") {
-    a = a - b;
-    Console.Write($"Le calcul est {a}");
-} else if (opérateur == "*") {
-    a = a + b;
-    Console.WriteLine($"Le calcul est {a}");
-} else if(opérateur == "/") {
-    a = a / b;
-    System.Console.WriteLine($"Le calcul est {a}");
-} else if (opérateur == "%"){
-    a = a%b;
-    System.Console.WriteLine($"Le calcul est {a}");
+if(operateur == "+" ){
+    nbr = nbr + nbr1;
+    Console.Write($"Le résultat est {nbr}");
+} else if (operateur == "-") {
+    nbr = nbr - nbr1;
+    Console.Write($"Le résultat est {nbr}");
+} else if (operateur == "*") {
+   nbr = nbr * nbr1;
+    Console.WriteLine($"Le résultat est {nbr}");
+} else if(operateur == "/") {
+    nbr = nbr / nbr1;
+    System.Console.WriteLine($"Le résultat est {nbr}");
+} else if (operateur == "%"){
+    nbr = nbr % nbr1;
+    System.Console.WriteLine($"Le résultat est {nbr}");
 } else {
     System.Console.WriteLine("ça n'est pas possible.");
 }
