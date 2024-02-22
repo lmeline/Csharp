@@ -17,5 +17,6 @@ Console.Write("Entrez votre valeur : ");
 int valeur = int.Parse(Console.ReadLine());
 const int a = 5;
 for (int i = 0; i < a; i++) {
-    Console.WriteLine(i*valeur);
+    int b = i * valeur;
+    Console.WriteLine($"{i} * {valeur} = {b} ");
 }
