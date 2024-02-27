@@ -10,12 +10,12 @@ int factorielle( int a ) {
 }
 Console.WriteLine(factorielle(8)); */
 
-/* Exercice 1
+/*Exercice 1
 int addition (int a,int b){
     int c = a + b ;
     return c ; 
 }
-Console.WriteLine(addition(11,6)); */
+Console.WriteLine(addition(- 3,-2)); */
 
 /* Exercice 2 
 int surface (int b,int h) {
