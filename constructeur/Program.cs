@@ -7,15 +7,18 @@ namespace constructeur
         static void Main(string[] args)
         {
             // instanciation de la classe Animal 
-            Animal _animal = new Animal("Médor",5);
+            Animal _animal = new Animal();
 
             // Affectation des valeurs aux propriétés de la classe Animal (set)
-            //_animal.Nom = "Médor";
-           // _animal.Age = 5;
+            _animal.Nom = "Médor";
+            _animal.Age = -6;
 
-            // Affichage des valeurs des propriétés de la classe Animal(get, lire)
-            Console.WriteLine(_animal.Nom + " a "+ _animal.Age+" ans ");
+        Console.WriteLine(_animal.Age);
+
+            //string s =_animal.Afficher();
+            //Console.WriteLine(s);
+            
+            //Console.WriteLine(_animal.ToString());
         }
-
     }
 }

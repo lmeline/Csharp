@@ -13,3 +13,11 @@
 /Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/obj/Debug/net8.0/variales.pdb
 /Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/obj/Debug/net8.0/variales.genruntimeconfig.cache
 /Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/obj/Debug/net8.0/ref/variales.dll
+/Users/meline/Desktop/info/SIO 2023/Csharp/variales/obj/Debug/net8.0/variales.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/info/SIO 2023/Csharp/variales/obj/Debug/net8.0/variales.AssemblyInfoInputs.cache
+/Users/meline/Desktop/info/SIO 2023/Csharp/variales/obj/Debug/net8.0/variales.AssemblyInfo.cs
+/Users/meline/Desktop/info/SIO 2023/Csharp/variales/obj/Debug/net8.0/variales.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/info/SIO 2023/Csharp/variales/obj/Debug/net8.0/variales.sourcelink.json
+/Users/meline/Desktop/info/SIO 2023/Csharp/variales/obj/Debug/net8.0/variales.dll
+/Users/meline/Desktop/info/SIO 2023/Csharp/variales/obj/Debug/net8.0/refint/variales.dll
+/Users/meline/Desktop/info/SIO 2023/Csharp/variales/obj/Debug/net8.0/variales.pdb

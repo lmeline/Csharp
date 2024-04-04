@@ -13,5 +13,6 @@ dotnet run
 revenir avant 
 cd ..
 
-
+appuyer sur F5 pour lancer le débug 
+barre droite || shift + maj + l
 
