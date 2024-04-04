@@ -8,6 +8,7 @@ namespace exopoo
         {
             Comptebancaire _comptebancaire = new Comptebancaire("Dupont","Alain",200,100);
 
-            _comptebancaire.Crediter
+            _comptebancaire.Crediter();
+            
         }
 }
