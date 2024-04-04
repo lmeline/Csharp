@@ -1,0 +1,15 @@
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/obj/Debug/net8.0/exopoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/obj/Debug/net8.0/exopoo.AssemblyInfoInputs.cache
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/obj/Debug/net8.0/exopoo.AssemblyInfo.cs
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/obj/Debug/net8.0/exopoo.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/obj/Debug/net8.0/exopoo.sourcelink.json
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/bin/Debug/net8.0/exopoo
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/bin/Debug/net8.0/exopoo.deps.json
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/bin/Debug/net8.0/exopoo.runtimeconfig.json
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/bin/Debug/net8.0/exopoo.dll
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/bin/Debug/net8.0/exopoo.pdb
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/obj/Debug/net8.0/exopoo.dll
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/obj/Debug/net8.0/refint/exopoo.dll
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/obj/Debug/net8.0/exopoo.pdb
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/obj/Debug/net8.0/exopoo.genruntimeconfig.cache
+/Users/meline/Desktop/info/SIO 2023/Csharp/exopoo/obj/Debug/net8.0/ref/exopoo.dll
