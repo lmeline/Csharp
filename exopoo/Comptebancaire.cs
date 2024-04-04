@@ -9,16 +9,11 @@ namespace exopoo
         public int Solde 
        {
             get {return _solde;}
-
-            set
-            {
-                if(value>0);
-            }
-            _solde = value;
        }
-       private bool Actif;
+       private bool Actif
        {
-        get{return _actif;}
+        get{ return  _actif;}
+
        } 
 
         // propriété de lecture seule
@@ -36,8 +31,8 @@ namespace exopoo
 
             set
             {
-                if (value<0 || value >100)
-                throw new Exception ("le decouvert nest pas autorisé");
+                if (value<100)
+                throw new Exception ("le decouvert n'est pas autorisé");
             }
             _decouvertautorise = value;
         }
@@ -75,7 +70,7 @@ namespace exopoo
 
         public override string ToString()
         {
-            return $"Nom : {Nom}, prenom : {Prenom}, Solde : {solde}, Actif : {Actif}, decouvert : {Decouvert}";
+            return $"Nom : {Nom}, prenom : {Prenom}, Solde : {Solde}, Actif : {Actif}, decouvert : {DecouvertAutorise}";
         }
         }
     }   
