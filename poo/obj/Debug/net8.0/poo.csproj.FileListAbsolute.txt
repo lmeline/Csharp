@@ -1,0 +1,15 @@
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/obj/Debug/net8.0/poo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/obj/Debug/net8.0/poo.AssemblyInfoInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/obj/Debug/net8.0/poo.AssemblyInfo.cs
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/obj/Debug/net8.0/poo.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/obj/Debug/net8.0/poo.sourcelink.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/bin/Debug/net8.0/poo
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/bin/Debug/net8.0/poo.deps.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/bin/Debug/net8.0/poo.runtimeconfig.json
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/bin/Debug/net8.0/poo.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/bin/Debug/net8.0/poo.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/obj/Debug/net8.0/poo.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/obj/Debug/net8.0/refint/poo.dll
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/obj/Debug/net8.0/poo.pdb
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/obj/Debug/net8.0/poo.genruntimeconfig.cache
+/Users/meline/Desktop/IFC/SIO 2023/Csharp/poo/obj/Debug/net8.0/ref/poo.dll

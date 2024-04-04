@@ -1,0 +1,15 @@
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/bin/Debug/net8.0/constructeur
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/bin/Debug/net8.0/constructeur.deps.json
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/bin/Debug/net8.0/constructeur.runtimeconfig.json
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/bin/Debug/net8.0/constructeur.dll
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/bin/Debug/net8.0/constructeur.pdb
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/obj/Debug/net8.0/constructeur.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/obj/Debug/net8.0/constructeur.AssemblyInfoInputs.cache
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/obj/Debug/net8.0/constructeur.AssemblyInfo.cs
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/obj/Debug/net8.0/constructeur.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/obj/Debug/net8.0/constructeur.sourcelink.json
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/obj/Debug/net8.0/constructeur.dll
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/obj/Debug/net8.0/refint/constructeur.dll
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/obj/Debug/net8.0/constructeur.pdb
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/obj/Debug/net8.0/constructeur.genruntimeconfig.cache
+/Users/meline/Desktop/info/SIO 2023/Csharp/constructeur/obj/Debug/net8.0/ref/constructeur.dll

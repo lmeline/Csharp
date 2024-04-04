@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/variales.csproj": {}
+    "/Users/meline/Desktop/info/SIO 2023/Csharp/variales/variales.csproj": {}
   },
   "projects": {
-    "/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/variales.csproj": {
+    "/Users/meline/Desktop/info/SIO 2023/Csharp/variales/variales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/variales.csproj",
+        "projectUniqueName": "/Users/meline/Desktop/info/SIO 2023/Csharp/variales/variales.csproj",
         "projectName": "variales",
-        "projectPath": "/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/variales.csproj",
+        "projectPath": "/Users/meline/Desktop/info/SIO 2023/Csharp/variales/variales.csproj",
         "packagesPath": "/Users/meline/.nuget/packages/",
-        "outputPath": "/Users/meline/Desktop/IFC/SIO 2023/Csharp/variales/obj/",
+        "outputPath": "/Users/meline/Desktop/info/SIO 2023/Csharp/variales/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/meline/.nuget/NuGet/NuGet.Config"
