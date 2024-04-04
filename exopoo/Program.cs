@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace exopoo
+{
+    class program 
+    {
+        static void Main(string[]args)
+
+        Comptebancaire _comptebancaire = new Comptebancaire();
+    }
+}
